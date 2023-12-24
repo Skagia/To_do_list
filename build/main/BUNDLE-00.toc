@@ -1,0 +1,3 @@
+([('main',
+   '/Users/leonardonepomuceno/Library/CloudStorage/OneDrive-Personal/Documents/Cursos/PYTHON/to_do/todo/dist/main',
+   'EXECUTABLE')],)
